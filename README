@@ -1,0 +1,11 @@
+﻿
+  That is was writen for:
+
+    * Writing simple tables (see examples/*.tbl),
+
+    * Process that tables with `defprocess' DSL (see tasks in tasks.lisp),
+
+    * And then export result into HTML format.
+
+    * Also, tablse represents in s-expressions, so every evalution (e.g. sum on columns)
+      can be writen simply.
